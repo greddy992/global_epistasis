@@ -1,2 +1,2 @@
-# global_epistasis
+# Global epistasis
 Code and data to reproduce figures for the paper on global epistasis
